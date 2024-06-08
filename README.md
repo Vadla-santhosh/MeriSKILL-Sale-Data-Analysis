@@ -1,1 +1,1 @@
-# Sale-Data-Analysis
+# MeriSkill Internship
